@@ -35,32 +35,7 @@ Credits and references used in this README:
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/ravi-1306/bird-migration">
-        <img src="https://cdn-icons-png.flaticon.com/512/616/616408.png"
-             alt="Bird Migration Project"
-             style="width:100%; height:200px; object-fit:contain;"/>
-      </a>
-      <br/>
-      <b>Bird Migration Tracker</b><br/>
-      <sub>Python project analyzing migration patterns of birds using datasets.</sub><br/>
-      🔗 <a href="https://github.com/ravi-1306/bird-migration">Repo</a>  
-      <br/>
-      <sub>Tags: Python, Data Analysis, Visualization</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ravi-1306/realtime-dashboard">
-        <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png"
-             alt="Real-Time Dashboard Project"
-             style="width:100%; height:200px; object-fit:contain;"/>
-      </a>
-      <br/>
-      <b>Real-Time Data Dashboard</b><br/>
-      <sub>React + Node.js dashboard with live data visualization & alerts.</sub><br/>
-      🔗 <a href="https://github.com/ravi-1306/realtime-dashboard">Repo</a>  
-      <br/>
-      <sub>Tags: React, Node.js, Kafka, PostgreSQL</sub>
-    </td>
+
     <td align="center" width="33%">
       <a href="https://github.com/ravi-1306/yatri-tourism">
         <img src="https://cdn-icons-png.flaticon.com/512/854/854929.png"
