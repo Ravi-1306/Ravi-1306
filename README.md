@@ -35,19 +35,17 @@ Credits and references used in this README:
 
 <table>
   <tr>
-
     <td align="center" width="33%">
       <a href="https://github.com/ravi-1306/yatri-tourism">
         <img src="https://cdn-icons-png.flaticon.com/512/854/854929.png"
-             alt="Yatri Tourism"
-             style="width:100%; height:200px; object-fit:contain;"/>
+             alt="Yatri Tourism Logo"
+             width="200" height="200" style="object-fit:contain;"/>
       </a>
       <br/>
       <b>Yatri Tourism</b><br/>
       <sub>Travel website built with React, featuring packages, itineraries, and gallery.</sub><br/>
-      🔗 <a href="https://github.com/ravi-1306/yatri-tourism">Repo</a>  
-      <br/>
-      <sub>Tags: React, Routing, UI/UX</sub>
+      🔗 <a href="https://github.com/ravi-1306/yatri-tourism">Repo</a><br/>
+      <sub><b>Tags:</b> React, Routing, UI/UX</sub>
     </td>
   </tr>
 </table>
