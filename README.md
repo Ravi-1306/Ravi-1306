@@ -32,20 +32,36 @@ Credits and references used in this README:
 ---
 
 ## 📂 Projects - Showcase
-
 <table>
   <tr>
-    <td align="center" width="33%">
+    <!-- Yatri Tourism -->
+    <td align="center" width="50%">
       <a href="https://github.com/ravi-1306/yatri-tourism">
         <img src="https://cdn-icons-png.flaticon.com/512/854/854929.png"
              alt="Yatri Tourism Logo"
-             width="200" height="200" style="object-fit:contain;"/>
+             width="200" height="200"
+             style="object-fit:contain;"/>
       </a>
       <br/>
       <b>Yatri Tourism</b><br/>
       <sub>Travel website built with React, featuring packages, itineraries, and gallery.</sub><br/>
       🔗 <a href="https://github.com/ravi-1306/yatri-tourism">Repo</a><br/>
       <sub><b>Tags:</b> React, Routing, UI/UX</sub>
+    </td>
+
+    <!-- RelmQuest -->
+    <td align="center" width="50%">
+      <a href="https://github.com/Ravi-1306/RelmQuest">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
+             alt="RelmQuest Logo"
+             width="200" height="200"
+             style="object-fit:contain;"/>
+      </a>
+      <br/>
+      <b>RelmQuest</b><br/>
+      <sub>Interactive game platform built with React and Node.js, featuring quests, rewards, and user progression.</sub><br/>
+      🔗 <a href="https://github.com/Ravi-1306/RelmQuest">Repo</a><br/>
+      <sub><b>Tags:</b> React, Node.js, Game Logic</sub>
     </td>
   </tr>
 </table>
