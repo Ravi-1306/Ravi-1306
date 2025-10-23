@@ -11,8 +11,10 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
-# 👨‍💻 Ravi Patel
-**`Aspiring Software Engineer | Full-Stack | Cloud | Data`**  
+# 👨‍💻 Ravi Patel  
+**`Aspiring Software Engineer | Full-Stack | Cloud | Data`**
+
+---
 
 ## 🚀 About Me
 - 🌱 Currently learning **React, Node.js, PostgreSQL, Docker, and Cloud Platforms (AWS/GCP)**  
@@ -27,11 +29,11 @@ Credits and references used in this README:
 ## 🛠️ Skill Stack
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,cs,js,ts,html,css,react,nodejs,postgres,mongodb,mysql,nginx,docker,linux,tensorflow,figma&theme=light)](https://skillicons.dev)  
 
-**Also comfortable with**: Git, GitHub Actions, API integrations, basic ML workflows.  
+**Also comfortable with:** Git, GitHub Actions, API integrations, basic ML workflows.  
 
 ---
 
-## 📂 Projects - Showcase
+## 📂 Projects – Showcase
 <table>
   <tr>
     <!-- Yatri Tourism -->
@@ -69,8 +71,10 @@ Credits and references used in this README:
 ---
 
 ## 📊 GitHub Stats
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi-1306&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravi-1306&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravi-1306&show_icons=true&theme=tokyonight" alt="Ravi's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-1306&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -81,11 +85,13 @@ Credits and references used in this README:
 - [**Contact**](mailto:rpate7703@gmail.com)  
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ravi-patel-481b301a2/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
+  <a href="https://www.linkedin.com/in/ravi-patel-481b301a2/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="600" />
+</p>
